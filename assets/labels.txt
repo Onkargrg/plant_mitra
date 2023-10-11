@@ -1,0 +1,5 @@
+0 Diseased pepper bell
+1 Healthy pepper bell
+2 potato early blight
+3 potato late blight
+4 potato healthy
